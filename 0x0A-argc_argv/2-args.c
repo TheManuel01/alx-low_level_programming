@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
+/**
  * main - a program that prints all arguments it recieves
  *
  * @argc: holds the number of arguments passed
