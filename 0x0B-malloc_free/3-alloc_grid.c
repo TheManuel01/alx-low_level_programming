@@ -2,13 +2,13 @@
   
  /** 
   * alloc_grid - a function that returns a pointer to 
-  *              a 2 dimensional array of integers. 
+  * a 2 dimensional array of integers. 
   * 
   * @width: width 
   * @height: height 
   * 
   * Return: NULL on faliure 
- */ 
+  */
   
  int **alloc_grid(int width, int height) 
  { 
