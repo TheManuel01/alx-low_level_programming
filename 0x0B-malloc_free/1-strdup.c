@@ -7,7 +7,7 @@
  *  @str: input string to duplicate
  *
  *  Return: NULL if str == NULL
- *  	    @str
+ *
  */
 
 char *_strdup(char *str)
